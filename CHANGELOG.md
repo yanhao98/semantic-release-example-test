@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/yanhao98/semantic-release-action-test/compare/v1.2.0...v1.2.1) (2024-10-06)
+
+
+### Bug Fixes
+
+* 修复111. ([8fd4c9c](https://github.com/yanhao98/semantic-release-action-test/commit/8fd4c9cfb44ec1e94f7155c14c8a49ce96b0f749))
+
 # [1.2.0](https://github.com/yanhao98/semantic-release-action-test/compare/v1.1.0...v1.2.0) (2024-10-06)
 
 
