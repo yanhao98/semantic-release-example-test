@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/yanhao98/semantic-release-action-test/compare/v1.1.0...v1.2.0) (2024-10-06)
+
+
+### Features
+
+* 新增3./a ([5b6cb34](https://github.com/yanhao98/semantic-release-action-test/commit/5b6cb3486f8f1ac8c40a8dd5026cf817ba623475))
+
 # [1.1.0](https://github.com/yanhao98/semantic-release-action-test/compare/v1.0.0...v1.1.0) (2024-10-06)
 
 
