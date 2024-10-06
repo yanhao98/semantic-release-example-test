@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/yanhao98/semantic-release-action-test/compare/v1.0.0...v1.1.0) (2024-10-06)
+
+
+### Features
+
+* 在CI配置中添加打印新版本号的步骤 ([f38aab0](https://github.com/yanhao98/semantic-release-action-test/commit/f38aab0dc15674ac0c4e0e0c9e77de03c1b81297))
+
 # 1.0.0 (2024-10-06)
 
 
