@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/yanhao98/semantic-release-action-test/compare/v1.2.2...v1.3.0) (2024-10-09)
+
+
+### Features
+
+* 测试 /exec ([81acf07](https://github.com/yanhao98/semantic-release-action-test/commit/81acf072d34d7a09b718d690cbdcf15f87725b47))
+
 ## [1.2.2](https://github.com/yanhao98/semantic-release-action-test/compare/v1.2.1...v1.2.2) (2024-10-06)
 
 
