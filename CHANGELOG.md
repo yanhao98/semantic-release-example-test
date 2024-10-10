@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/yanhao98/semantic-release-action-example/compare/v1.3.0...v1.3.1) (2024-10-10)
+
+
+### Bug Fixes
+
+* 更新 CI 配置，修改语义版本步骤 ID ([f89b3e5](https://github.com/yanhao98/semantic-release-action-example/commit/f89b3e5e2dcb24987ce99b11758ec3c076dab7d7))
+
 # [1.3.0](https://github.com/yanhao98/semantic-release-action-test/compare/v1.2.2...v1.3.0) (2024-10-09)
 
 
