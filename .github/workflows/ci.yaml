@@ -3,10 +3,7 @@ name: 持续集成
 on:
   push:
     branches:
-      - main
-concurrency:
-  group: 'ci'
-  cancel-in-progress: true
+      - release
 env:
   TZ: Asia/Shanghai
 
@@ -15,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:                # Job-level permissions configuration starts here
       contents: write           # 'write' access to repository contents
-      pull-requests: write      # 'write' access to pull requests
+      # pull-requests: write      # 'write' access to pull requests
     steps:
       - name: Checkout
         uses: actions/checkout@v4
